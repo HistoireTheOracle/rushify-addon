@@ -1,5 +1,10 @@
 Changelog:
 
+2022/06/24
+- Added Ritual, Synchro, Xyz, AND Dark Synchro
+- Added Ranks/Negative Levels for their respective card type.
+
+(original branch changelog)
 2022/06/03:
 - Fixed an issue where card text is not displayed correctly the first time they are loaded.
 
